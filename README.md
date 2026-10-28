@@ -31,3 +31,8 @@ The ACS 2020-2024 five-year period is not current property availability. B25004 
 ## Reproduce and cite
 
 The CSV, raw response and scripts remain pending upload. Their computations were checked locally against the Census Reporter release and prior CSV. Source data: U.S. Census Bureau, 2020-2024 ACS five-year detailed tables B25002 and B25004. The compilation is CC BY 4.0; Census source data are public domain. Suggested citation: Cieplechowicz, Richard (Ryszard). *Tampa Bay vacancy composition by ZCTA, 2020-2024* (2026).
+
+## Links
+- Interactive study page with charts and ZIP tables: https://richardcieplechowicz.com/tampa-bay-vacancy-composition-by-zcta-2020-2024/
+- Archived dataset record (Zenodo): https://doi.org/10.5281/zenodo.23114340
+- More Tampa Bay housing data: https://richardcieplechowicz.com/tampa-bay-data/
