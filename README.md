@@ -1,6 +1,6 @@
 # Tampa Bay vacancy composition by ZCTA, 2020-2024
 
-Richard Cieplechowicz (also legally known as Ryszard Cieplechowicz) · September 29, 2026
+Richard (Ryszard) Cieplechowicz · September 29, 2026
 
 A vacancy rate alone does not say why housing units are vacant. In the 132 Tampa Bay ZIP Code Tabulation Areas (ZCTAs) selected for the existing housing dataset, the American Community Survey (ACS) estimates 184,380 vacant housing units out of 1,513,832 total units. Of the estimated vacant units, 81,351 (44.1%) are classified as seasonal, recreational, or occasional use and 33,244 (18.0%) as for rent. The categories are survey estimates, not a count of available homes today.
 
@@ -30,7 +30,7 @@ The ACS 2020-2024 five-year period is not current property availability. B25004 
 
 ## Reproduce and cite
 
-The CSV, raw response and scripts remain pending upload. Their computations were checked locally against the Census Reporter release and prior CSV. Source data: U.S. Census Bureau, 2020-2024 ACS five-year detailed tables B25002 and B25004. The compilation is CC BY 4.0; Census source data are public domain. Suggested citation: Cieplechowicz, Richard (Ryszard). *Tampa Bay vacancy composition by ZCTA, 2020-2024* (2026).
+The derived CSV, raw response, prior selection CSV and scripts are attached in this repository. Their computations were checked locally against the Census Reporter release and prior CSV. Source data: U.S. Census Bureau, 2020-2024 ACS five-year detailed tables B25002 and B25004. The compilation is CC BY 4.0; Census source data are public domain. Suggested citation: Cieplechowicz, Richard (Ryszard). *Tampa Bay vacancy composition by ZCTA, 2020-2024* (2026).
 
 ## Links
 - Interactive study page with charts and ZIP tables: https://richardcieplechowicz.com/tampa-bay-vacancy-composition-by-zcta-2020-2024/
