@@ -36,3 +36,12 @@ The derived CSV, raw response, prior selection CSV and scripts are attached in t
 - Interactive study page with charts and ZIP tables: https://richardcieplechowicz.com/tampa-bay-vacancy-composition-by-zcta-2020-2024/
 - Archived dataset record (Zenodo): https://doi.org/10.5281/zenodo.23114340
 - More Tampa Bay housing data: https://richardcieplechowicz.com/tampa-bay-data/
+
+## Companion copies and interactive view
+
+- [Kaggle dataset](https://www.kaggle.com/datasets/richardcieplechowicz/tampa-bay-vacancy-composition-by-zcta-2020-2024): a companion copy of this vacancy table.
+- [Hugging Face dataset](https://huggingface.co/datasets/richardcieplechowicz/tampa-bay-vacancy-composition-zcta-2020-2024): the same 132-ZCTA derived data product.
+- [Observable notebook](https://observablehq.com/d/b754dd777e89f578): interactive vacancy categories, with the same geography and survey-period limits.
+- [Working paper](https://richardcieplechowicz.com/papers/richard-cieplechowicz-tampa-bay-housing-2020-2024/): the shared methods and limitations of the three data products.
+
+These companion publications do not add independent observations. The source snapshots, build code and license in this repository are unchanged.
